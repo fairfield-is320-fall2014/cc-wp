@@ -32,7 +32,12 @@ cc-wp
 
 *Now you have created a git repository in the wordpress folder which will be in your user folder in Finder (ex. ryanwessel). You can rename this to cc. We removed the wp-content folder in Step 6, so now we need to pull from GitHub to get the most up-to-date folder.*
 
-#Pulling from GitHub on Terminal#
+#Pulling from GitHub in the GitHub for Mac Application#
+###You will need to do this after following the instructions to create a Git repository so your wp-content folder reflects the most up-to-date version###
+
+1. Open GitHub for Mac
+2. Select the cc-wp repository
+3. Click Repository on the menu at the top of your screen, then click Pull *(This will pull the most recent version into your cc folder)*
 
 #How to Add, Push, and Commit to GitHub in Terminal#
 ###After making changes to the site locally, follow these steps to commit those changes to GitHub###
