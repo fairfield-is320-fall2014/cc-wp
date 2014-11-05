@@ -33,10 +33,10 @@ hr { border-color: transparent;
 }
 
      /** CAROUSEL **/
-.carousel-caption { background: rgba(0,0,0,0); margin-left: 5%;
+.carousel-caption { background: rgba(0,0,0,0); margin-left: 0%;
 }
 
-     /** DROPDOWNS **/
+     /** CONTENT **/
 ul { padding: 0px;
 }
 .box-header { border-bottom: dotted 1px; border-bottom-color: #bbb;
@@ -47,17 +47,19 @@ ul { padding: 0px;
 }
 .box-header p { color: #eee;
 }
-div#donate-container { background-color: #71b510; height: auto; border: 2px solid; border-radius: 10px; border-color: #71b510;
+div#donate-container { background-color: #71b510; height: 250px; border: 2px solid; border-radius: 10px; border-color: #71b510; margin-top: 5px;
 }
 div#donate-container a { color: white;
 }
-div#volunteer-container { background-color: #6699ff; height: auto; border: 2px solid; border-radius: 10px; border-color: #6699ff;
+div#volunteer-container { background-color: #6699ff; height: 250px; border: 2px solid; border-radius: 10px; border-color: #6699ff; margin-top: 5px;
 }
 div#volunteer-container a { color: white;
 }
-div#event-container { background-color: #eb0a94; height: auto; border: 2px solid; border-radius: 10px; border-color: #eb0a94;
+div#event-container { background-color: #eb0a94; height: 250px; border: 2px solid; border-radius: 10px; border-color: #eb0a94; margin-top: 5px;
 }
 div#event-container a { color: white;
+}
+div#featured-container p { text-align: left;
 }
 .list-section { float: inherit; width: 100%; padding-top: 10px;
 }
@@ -78,7 +80,8 @@ text-align: left;
 font-size: 12px;
 font-weight: 500;
 }
-
+footer ul { text-align: left;
+}
 
      /**FOOTER CONTACT FORM**/
 .wpcf7-form input[type="submit"]{
