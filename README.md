@@ -24,4 +24,10 @@ cc-wp
 2. Type: cd (folder name)/ *In our case the folder name should be "cc/"*
 3. Type: git add .
 4. Type: git commit -m "type your commit message here"
-5. Type: git push origin master
+5. Type: git push origin master *(master can be replaced by any branch name that you wish to push to)*
+
+#How to Add this repository in GitHub for Mac Application#
+
+1. Install GitHub for Mac if you have not done so already https://mac.github.com/
+2. Once that is done click the + in the top-left corner
+3. Then click Add, then Choose, and select the folder "cc"
