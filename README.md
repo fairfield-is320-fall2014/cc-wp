@@ -41,6 +41,7 @@ cc-wp
 
 #How to Add, Push, and Commit to GitHub in Terminal#
 ###After making changes to the site locally, follow these steps to commit those changes to GitHub###
+####*Important Note: You must copy the wp-content folder from your local install (Applications > AMPPS > www > cc) into the repository folder (username > cc) before committing to reflect your most recent changes*####
 
 1. Open Terminal
 2. Type: cd (folder name)/ *In our case the folder name should be "cc/"*
