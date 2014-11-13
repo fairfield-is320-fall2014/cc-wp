@@ -1,0 +1,55 @@
+/*
+Theme Name: vantage-child
+Version: 1.0
+Description: A child theme of Vantage Premium
+Template: vantage
+*/
+
+@import url("../vantage/style.css");
+
+@import url("../vantage/styles/green.css");
+
+/** STYLING BEGINS HERE **/
+
+
+#pg-199-0 .panel-grid-cell { padding: 0px; border-radius: 10px;
+}
+/** DONATE BOX **/
+div#pgc-199-0-0 { background-color: #71b510; height: 275px;
+}
+div#panel-199-0-0-0 h3 { text-align: center; margin-top: 20px; color: white; margin-bottom: 0px; padding-bottom: 15px; border-bottom: lightgray; border-bottom-style: solid;
+}
+ul#menu-donate-menu { width: 100%; overflow: auto; margin-left: 0px;
+}
+ul#menu-donate-menu li { float: left; display: inline-block; width: 40%; vertical-align: top; padding-top: 15px; margin-left: 20px; margin-right: 5px;
+}
+ul#menu-donate-menu a { color: white; text-decoration: none; font-weight: 600;
+}
+/** END OF DONATE BOX **/
+
+/** VOLUNTEER BOX **/
+div#pgc-199-0-1 { background-color: #6699ff; height: 275px;
+}
+div#panel-199-0-1-0 h3 { text-align: center; margin-top: 20px; color: white; margin-bottom: 0px; padding-bottom: 15px; border-bottom: lightgray; border-bottom-style: solid;
+}
+ul#menu-volunteer-menu { width: 100%; overflow: auto; margin-left: 0px;
+}
+ul#menu-volunteer-menu li { float: left; display: inline-block; width: 40%; vertical-align: top; padding-top: 15px; margin-left: 20px; margin-right: 5px;
+}
+ul#menu-volunteer-menu a { color: white; text-decoration: none; font-weight: 600;
+}
+/** END OF VOLUNTEER BOX **/
+
+/** PARTICIPATE BOX **/
+div#pgc-199-0-2 { background-color: #eb0a94; height: 275px;
+}
+div#panel-199-0-2-0 h3 { text-align: center; margin-top: 20px; color: white; margin-bottom: 0px; padding-bottom: 15px; border-bottom: lightgray; border-bottom-style: solid;
+}
+ul#menu-participate-menu { width: 100%; overflow: auto; margin-left: 0px;
+}
+ul#menu-participate-menu li { float: left; display: inline-block; width: 40%; vertical-align: top; padding-top: 15px; margin-left: 20px; margin-right: 5px;
+}
+ul#menu-participate-menu a { color: white; text-decoration: none; font-weight: 600;
+}
+/** END OF PARTICIPATE BOX **/
+
